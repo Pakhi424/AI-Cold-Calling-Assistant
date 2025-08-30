@@ -66,6 +66,7 @@ Open a new terminal window and run app.py to start the server.
 python app.py
 
 Start the ngrok Tunnel (Terminal 2):
+
 Open a second terminal window and run ngrok. Copy the public URL it provides.
 
 ngrok http 5000
